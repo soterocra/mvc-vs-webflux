@@ -106,7 +106,7 @@ Limite a quantidade mínima e máxima de memória da JVM, isso deixará os teste
 https://pt.slideshare.net/soterocra/introduo-ao-webflux
 
 ## Apresentação em vídeo:
-(Pendente)
+https://www.youtube.com/watch?v=Go5w9zA8eD4&t
 
 ## Links:
 
